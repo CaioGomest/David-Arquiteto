@@ -1,0 +1,6 @@
+MODELO 3D CASA ARIAS
+TIPO: Projeto
+PAIS: Bolívia
+CIDADE: Santa Cruz de la Sierra
+BAIRRO: Tompillo
+ÁREA: 120m2
